@@ -35,7 +35,7 @@ Antes de começar, você precisa ter instalado:
 Clone o repositório:
 
 ```bash
-git clone <repo-url>
+git clone (https://github.com/luankgf/gerador-qrcode-password.git)
 ```
 
 Entre na pasta do projeto:
@@ -103,17 +103,5 @@ h#cy4hok
 
 
 
-## Instalação
-```bash
-git clone https://github.com/luankgf/gerador-qrcode-password.git
-```
-
-```bash
-cd gerador-qrcode-password
-```
-
-```bash
-npm install
-```
 
 
