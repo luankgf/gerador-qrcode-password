@@ -13,7 +13,7 @@ O gerador de senhas é totalmente configurável via variáveis de ambiente, perm
 -  Estrutura modular e escalável
 
 ## Tecnologias
--- Node.js
+- Node.js
 - JavaScript (ESModules)
 - Chalk
 - Prompt
@@ -35,7 +35,7 @@ Antes de começar, você precisa ter instalado:
 Clone o repositório:
 
 ```bash
-git clone (https://github.com/luankgf/gerador-qrcode-password.git)
+git clone https://github.com/luankgf/gerador-qrcode-password.git
 ```
 
 Entre na pasta do projeto:
