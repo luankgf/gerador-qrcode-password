@@ -41,7 +41,7 @@ git clone https://github.com/luankgf/gerador-qrcode-password.git
 Entre na pasta do projeto:
 
 ```bash
-cd projeto-qrcode
+cd gerador-qrcode-password
 ```
 
 Instale as dependências:
